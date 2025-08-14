@@ -5,7 +5,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from typing import Dict, Any, List
 
 # API 密钥配置
-API_KEY = "AIzaSyC8Dy2_pMq3Z8rMx-FwWjtU1hZr5QrI9xA"
+API_KEY = "YOUR_API_KEY"
 
 # MCP 服务器和 YouTube API 服务
 mcp = FastMCP("youtube_sentiment_analyzer")
